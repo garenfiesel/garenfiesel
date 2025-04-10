@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Garen Fiesel</h1>
+<h3 align="center">Student at New York Institute of Technology</h3>
+
 - 📫 How to reach me **garen.fiesel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
